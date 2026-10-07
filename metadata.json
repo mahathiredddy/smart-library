@@ -1,0 +1,6 @@
+{
+  "name": "E-Book Library & Management System",
+  "description": "Modern full-featured digital e-book library and administrative management system with e-reader, favorites, catalog filtering, and user management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
